@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\fpvc068\Desktop\vuforia-sdk-android-7-0-47\samples\Vuforia-ImageTarget\Vuforia-ImageTarget\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\fpvc068\Desktop\vuforia-sdk-android-7-0-47\samples\Vuforia-ImageTarget\Vuforia-ImageTarget\app\src\debug\shaders"/></dataSet></merger>
